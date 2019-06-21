@@ -1,0 +1,25 @@
+{
+  "name": "questioner-frontend-v2",
+  "version": "2.0.0",
+  "description": "A questions crowd-sourcing application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igbominadeveloper/questioner-frontend-v2.git"
+  },
+  "keywords": [
+    "questioner",
+    "react",
+    "webpack",
+    "redux"
+  ],
+  "author": "Favour Afolayan, Azeez Raheem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igbominadeveloper/questioner-frontend-v2/issues"
+  },
+  "homepage": "https://github.com/igbominadeveloper/questioner-frontend-v2#readme"
+}
